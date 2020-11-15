@@ -12,6 +12,18 @@ environment setup. These will vary based on the line of work or project, but I
 will try to keep the material broad and provide resources for additional reading
 and guidance.
 
+### As you Work, Both in This Repository and Elsewhere
+
+While going through this repository and as you begin to learn how to program and
+approach problems with a critical and logical lense, be mindful of things that
+you find are challenging or unclear. It is more than likely that someone else
+will too! This is a great time to become familiar with collaboration within a
+programming environment! If you run into anything that gives you trouble you
+should open an [issue](https://github.com/ajchili/learn-programming/issues/new).
+By opening an issue, a solution can be reached with input from anyone involved
+and others who may face a similar issue can reference it to gain an
+understanding for potential solutions.
+
 ### Recommended Readings
 
 1. [GitHub Briefing](readings/github.md)
