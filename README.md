@@ -39,3 +39,7 @@ development environment._
 4. A text editor or IDE (Integrated Development Environment) of your choice
    - I recommend and use [Visual Studio Code](https://code.visualstudio.com),
      but you can and should use something that you are comfortable with
+
+## Start Learning!
+
+- [Python](lessons/python/README.md)

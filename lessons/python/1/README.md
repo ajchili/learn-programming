@@ -42,7 +42,7 @@ python hello_world.py
 
 You should now be rewarded with a response!
 
-![Python response](./images/1.png)
+![Python response](images/1.png)
 
 ## Troubleshooting Errors
 
