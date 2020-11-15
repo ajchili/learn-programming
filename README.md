@@ -36,3 +36,6 @@ development environment._
 1. [Xcode](readings/setup_xcode.md)
 2. [Homebrew](https://brew.sh)
 3. [Python](readings/setup_python.md)
+4. A text editor or IDE (Integrated Development Environment) of your choice
+   - I recommend and use [Visual Studio Code](https://code.visualstudio.com),
+     but you can and should use something that you are comfortable with
