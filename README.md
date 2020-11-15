@@ -18,4 +18,6 @@ and guidance.
 
 ### Environment Setup
 
-TODO
+#### Mac
+
+1. [Xcode](readings/setup_xcode.md)
