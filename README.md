@@ -30,6 +30,9 @@ understanding for potential solutions.
 
 ### Environment Setup
 
-#### Mac
+_**NOTE:** These environment setup guides are **exclusively** for the MacOS
+development environment._
 
 1. [Xcode](readings/setup_xcode.md)
+2. [Homebrew](https://brew.sh)
+3. [Python](readings/setup_python.md)
