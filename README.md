@@ -43,3 +43,8 @@ development environment._
 ## Start Learning!
 
 - [Python](lessons/python/README.md)
+
+
+## External Courses
+
+- [Microsoft's Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
