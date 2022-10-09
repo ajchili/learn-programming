@@ -54,7 +54,7 @@ you can either move your terminal to the directory that has your python file
 
 If you want to change the directory that your terminal is currently referencing
 you can use the
-[**cd**, change directory, command](<https://en.wikipedia.org/wiki/Cd_(command)>).
+[**cd**, change directory, command](https://en.wikipedia.org/wiki/Cd_(command)).
 You can use it as follows
 
 ```Bash
@@ -92,4 +92,4 @@ Ensure that Python 3 is installed, if that does not resolve the error, open an
 
 ## Additional Readings
 
-- [Paths](<https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths>)
+- [Paths](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths)
