@@ -4,8 +4,8 @@ Hello, World! is great, but it is basic. Programming is not limited to printing 
 
 1. Start by creating another new Python file, you can name it **variables.py**, but in reality it does not matter what you name it.
 2. Next, open the file in your editor/IDE of choice.
-3. Once within your editor/IDE of choice, we will create a new variable
-4. Consider what we learned in **Lesson 1**, the string which was embedded within the `print` function can be extracted to a variable, to create a variable, reference the code below
+3. Once within your editor/IDE of choice, we will create a new variable.
+4. Consider what we learned in **Lesson 1**, the string which was embedded within the `print` function can be extracted to a variable, to create a variable, reference the code below:
    ```python
    # Name of variable on left of the equals sign, variable value on the right
    hello = "hello"
@@ -23,8 +23,8 @@ Hello, World! is great, but it is basic. Programming is not limited to printing 
    some_other_number = some_new_number + 2 # will be 6
    ```
 7. Finish up the assignment by doing the following:
-  1. Printing **Hello, World!** using a variable per word with the add operation for a string
-  2. Printing an integer variable which was initialized to `2` then had been doubled (`2` added to it or multiplied by `2`)
+  1. Printing **Hello, World!** using a variable per word with the add operation for a string.
+  2. Printing an integer variable which was initialized to `2` then had been doubled (`2` added to it or multiplied by `2`).
 8. Run your program!
    ```bash
    python variables.py
