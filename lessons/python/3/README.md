@@ -21,6 +21,6 @@ Now that you have a general understanding of variables, you should also learn ab
    function_name()
    ```
 6. Finish up the assignment by doing the following:
-  1. Create a function which prints **Hello, World!**
-  2. Call the function multiple times
+  1. Create a function which prints **Hello, World!**.
+  2. Call the function multiple times.
 7. Run your program!
